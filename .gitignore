@@ -1,0 +1,6 @@
+# Ignore everything except PKGBUILD files.
+*
+!.gitignore
+!PKGBUILD
+# Even if they're in subdirectories.
+!*/
